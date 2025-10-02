@@ -7,8 +7,8 @@
 ### **1. Description du projet**
 Ce projet est un site web  permettant d'afficher une liste de Pokémon avec leur image, ID, nom et types. 
 Lorsque l'utilisateur clique sur un Pokémon, il sera redirigé vers une page détaillée affichant sa description, sa taille, son poids et ses types.
-<img src="./gitimg/presentation1.PNG">
-<img src="./gitimg/presentation2.PNG">
+<img src="./gitimg/presentation1.png">
+<img src="./gitimg/presentation2.png">
 
 ### **2. Technologies utilisées**
 
